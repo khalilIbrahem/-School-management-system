@@ -1,0 +1,27 @@
+.create-container{
+    display: inline-block;
+    margin: 0 35%;
+    width: 30%;
+    margin-top: 121px;
+    
+    }
+    h1{
+        margin-top: 0;
+        padding-left: 30%;
+        margin-bottom: 0.5em;
+        color: rgba(0, 0, 0, 0.85);
+        font-weight: 500;
+    }
+    .create-table{
+        width: 100%;
+    }
+    .create-table-first-column{
+        width: 25%;
+    }
+    .create-table-second-column{
+        width:75%;
+    }
+    
+        button, html [type="button"] {
+            margin-left: 100%;
+    }
